@@ -1,0 +1,192 @@
+🎟️ Culture & Entertainment:
+  culture:
+    share: 0
+    items:
+      - CINEVILLE
+      - Museumkaart
+      - Boekhandel
+      - International Film Festival Rotterdam
+      - Werelderfgoe
+  concerts:
+    share: 0
+    items:
+      - Stager ticketing # left of the dial
+      - TicketSwap
+🏋️‍♀️ Sport:
+  yoga:
+    share: 0
+    items:
+      - zingfit
+💳 Subscriptions:
+  belastingdienst:
+    share: 0
+    items:
+      - Belastingdienst
+🚑 Health:
+  dentist:
+    share: 0
+    items:
+      - Infomedics B.V. 
+  insurance:
+    share: 0
+    items:
+      - Zilveren Kruis
+✈️ Travel:
+  abroad:
+    share: 0
+    items:
+      - BEL
+      - PRT
+      - ITA
+  flights:
+    share: 0
+    items:
+      - Transavia
+      - Odigeo
+      - Cheaptickets.nl
+🏡 Rent and Utilities:
+  utilities:
+    share: 5
+    items:
+      - Vattenfall
+      - ABN AMRO
+      - ziggo
+      - EVIDES
+🛋️House Supplies:
+  decoration:
+    share: 5
+    items:
+      - Action
+  bricolage:
+    share: 5
+    items:
+      - JD4701GammaR'damStad
+      - Praxis
+  electronics:
+    share: check
+    items:
+      - Coolblue
+      - Worten
+      - Staples
+  plantjes:
+    share: 5
+    items:
+      - Intratuin
+      - De Plantenhal Rhoon
+🍕 Eating out & Drinks:
+  drinks:
+    share: 5
+    items: 
+      - Kaapse Maria
+      - Vessel 11
+      - Gele Kanarie
+      - NIKO's resto
+      - PAY.nl*KINO
+      - Cinerama
+      - Worm
+      - Kiosk
+      - Stichting Landjuwe  # ruigoord
+      - Lantaren Venster
+      - Keilecafe
+  coffee:
+    share: 5
+    items: 
+      - Lebkov
+      - KANSO COFFEE LAB
+  restaurant:
+    share: 5
+    items:
+      - Takumi
+      - Wok to go
+      - IJssalon
+      - Markthal
+      - Super Crepe
+      - BACKWERK
+      - Burger King Spl
+      - Harvest Coffee Brewers
+      - Stichting Het Witte Pa
+  toogoodtogo:
+    share: 5
+    items:
+      - TooGoodToGo
+  lunch_az:
+    share: 0
+    items:
+      - LITTLE ITALY
+      - Chinny
+      - Warung Mini
+      - Allianz Rotterdam
+      - MAMA HONG
+      - Bazar
+      - CCV*ISS Catering Servi
+      - Trattoria Panini R'dam
+🛒 Groceries:
+  market:
+    share: 5
+    items:
+      - hoogendoorn kaashandel
+      - Vishandel
+      - C&M*Jonas Aardappelen
+  supermarket:
+    share: 5
+    items:
+      - 5825 AH
+      - 5825 AH Rotterdam
+      - AH to go
+      - ALBERT HEIJN 
+      - Lidl
+      - MCD Vreewijk
+      - Spar
+      - Dirk
+      - Carrefour
+      - Kruidvat
+      - Jumbo
+      - Mista
+      # - PINGO DOCE
+      # - AUCHAN
+      # - Continente  
+  cigs:
+    share: 0
+    items:
+      - Tabak & Go
+💁🏻‍♀️ Aesthetics:
+  clothes:
+    share: 0
+    items:
+      - primark
+      - salsa
+      - zara
+      - rejoes
+  shoes:
+    share: 0
+    items: 
+    - OMODA
+🎁 Gifts:
+  social_deals:
+    share: check
+    items:
+      - Social Deal
+💰 Money:
+  money_withdrawl:
+    share: check
+    items:
+      - Geldmaat
+  trade_republic:
+    share: 0
+    items:
+      - DE71502109007018558232
+  cgd:
+    share: 0
+    items:
+      - PT50003509300012725420056
+  tikkie:
+    share: 0
+    items:
+      - tikkie
+  salary:
+    share: 0
+    items:
+      - Allianz Nederland Groep N.V.
+
+
+

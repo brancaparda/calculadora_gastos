@@ -1,0 +1,7 @@
+name: calculadora_gastos
+dependencies:
+  - ipykernel
+  - pip
+  - python = 3.10
+  - pip:
+    - -r ./requirements.txt
