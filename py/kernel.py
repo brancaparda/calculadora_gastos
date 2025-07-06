@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 download_path = 'C:/Users/Ana Branca/Downloads'
-file_name =  'TXT250706135211.TAB'
+file_name =  'TXT250706135142.TAB'
 output_path = '../output/'
 
 
